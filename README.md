@@ -22,3 +22,9 @@ Celebrate Mother's Day in true hacker style with this Python script that display
   >>
   >>Feel free to customize the script to add your own personal touch or share it with friends and family to spread the Mother's Day cheer in the hacker community!
 
+![image](https://github.com/mulw/Mothers_Day_HackerStyle/assets/107396543/3dd7198b-33d0-4d57-a237-c6d6a9cd61c4)
+![Screenshot 2024-05-12 102019](https://github.com/mulw/Mothers_Day_HackerStyle/assets/107396543/94b5f022-ebce-4b1a-89bf-efcb04dfae3f)
+![image](https://github.com/mulw/Mothers_Day_HackerStyle/assets/107396543/b6b295e8-3850-4e8c-8459-b736cccb3ca5)
+![image](https://github.com/mulw/Mothers_Day_HackerStyle/assets/107396543/b948aae7-4ee8-448b-97a3-620103a9f147)
+
+
